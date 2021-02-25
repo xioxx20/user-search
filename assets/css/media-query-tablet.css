@@ -1,0 +1,198 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  header {
+    padding: 1.5rem 2.17rem 1.5rem 2.17rem;
+  }
+  header #logo {
+    width: 14.42rem;
+    height: 2.08rem;
+  }
+
+  .search-container {
+    padding: 2.92rem 4.17rem 7.92rem 4.17rem;
+  }
+  .search-container h1 {
+    font-size: 4rem;
+  }
+  .search-container p {
+    font-size: 1.7rem;
+    margin-top: 1.25rem;
+  }
+  .search-container input {
+    font-size: 2rem;
+    height: 5.83rem;
+    border-radius: 0.25rem;
+    padding: 1em;
+  }
+  .search-container .invalid-email-box {
+    margin-top: -0.2rem;
+    padding: 0.3rem 0.6rem 0 0.6rem;
+    background: #DC0015;
+    border-radius: 3px 3px 0 0;
+    width: 21.58rem;
+    height: 2.42rem;
+    font-size: 1.33rem;
+    color: #FFFFFF;
+    border-radius: 0.25rem;
+  }
+  .search-container .invalid-email-input {
+    border: 0.25rem solid #DC0015;
+  }
+  .search-container .btnGO {
+    width: 15rem;
+    height: 5.83rem;
+    font-size: 2rem;
+    font-weight: bold;
+    box-shadow: 0 3px 0 0 #A6953B, inset 0 1px 0 0 #FFFFFF;
+    border-radius: 6px;
+  }
+  .search-container .lock-text p {
+    font-size: 1.33rem;
+    letter-spacing: 0;
+    margin-left: 1.25rem;
+  }
+
+  .search-container-results {
+    padding-top: 5em;
+    padding-bottom: 5em;
+  }
+  .search-container-results input, .search-container-results button {
+    margin-top: 1em;
+  }
+
+  .reverse-emain-cont {
+    padding: 3.33rem 3.17em 4.92rem 3.17em;
+  }
+  .reverse-emain-cont h2 {
+    font-size: 4rem;
+    letter-spacing: 0;
+    line-height: 70px;
+    font-weight: bold;
+  }
+  .reverse-emain-cont p {
+    color: #4A4A4A;
+    letter-spacing: 0;
+    font-size: 1.4rem;
+    margin-top: 1.67rem;
+    margin-bottom: 4.67rem;
+  }
+  .reverse-emain-cont .item-num {
+    margin-bottom: 2rem;
+  }
+  .reverse-emain-cont .item-num .round {
+    background: #004A80;
+    width: 5.25rem;
+    height: 5.25rem;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 0.5rem;
+  }
+  .reverse-emain-cont .item-num .round span {
+    color: #F6BC25;
+    font-weight: bold;
+    font-size: 2.8rem;
+  }
+  .reverse-emain-cont .item-num h3 {
+    color: #004A80;
+    size: 1.83rem;
+  }
+  .reverse-emain-cont .item-num p {
+    margin: 0;
+    font-size: 1.3rem;
+    letter-spacing: 0;
+  }
+
+  .spinner-div {
+    background: #F8F8F8;
+    padding-top: 26em;
+    padding-bottom: 26em;
+  }
+  .spinner-div img {
+    width: 12.83rem;
+    height: 12.83rem;
+  }
+  .spinner-div h3 {
+    color: #004A80;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .results-container {
+    height: 40em;
+  }
+  .results-container h2 {
+    text-align: center;
+    color: #004A80;
+    font-size: 4.33rem;
+    font-weight: bold;
+  }
+  .results-container p {
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  .results-container-user {
+    padding: 2.5rem 4.17rem 5.5rem 4.17rem;
+    display: none;
+  }
+  .results-container-user h2 {
+    text-align: center;
+    color: #004A80;
+    font-size: 4.33rem;
+    font-weight: bold;
+    margin-bottom: 1.25rem;
+  }
+  .results-container-user p {
+    text-align: center;
+    font-size: 1.8rem;
+  }
+  .results-container-user .user-information {
+    display: none;
+    padding: 3.33rem;
+    margin-top: 2.5rem;
+    width: 100%;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    border-radius: 2.5rem;
+  }
+  .results-container-user .user-information p {
+    text-align: left;
+    font-size: 1.3rem;
+  }
+  .results-container-user .user-information h3 {
+    color: #004A80;
+    font-size: 2.67rem;
+    font-weight: bold;
+  }
+  .results-container-user .user-information h4 {
+    color: #004A80;
+    font-size: 1.83rem;
+    font-weight: bold;
+  }
+  .results-container-user .user-round {
+    background: #004A80;
+    width: 7.5rem;
+    height: 7.5rem;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 0.7rem;
+  }
+  .results-container-user .user-round img {
+    width: 3.33rem;
+    height: 3.83rem;
+    margin: 0.92rem 2.08rem 0.92rem 2.08rem;
+  }
+
+  .phone-numbers-list {
+    color: #004A80;
+    font-size: 1.5rem;
+  }
+
+  footer {
+    padding: 1.17em 3.17em 0 3.17em;
+  }
+  footer p {
+    font-size: 1.25rem;
+  }
+  footer span {
+    font-size: 1.17rem;
+  }
+}
